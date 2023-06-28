@@ -1,10 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "convergEU"]
 	path = convergEU
 	url = https://github.com/federico-m-stefanini/convergeu
-	shallow = true
-	registered = true
